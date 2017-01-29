@@ -2,8 +2,10 @@
 
 The best way to not feel hopeless and scared is to work together, in our community, without waiting for bad things to happen.
 
-Feel free to open PR's to provide organizations/repos in need of technical support.
+Feel free to open PR's to provide organizations and open source projects in need of technical or financial support.
 
 ### Organizations
 
-### Projects
+### Open Sourced Projects
+
+### Places to Donate
